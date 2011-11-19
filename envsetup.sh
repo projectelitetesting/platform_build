@@ -467,7 +467,7 @@ function lunch()
         answer=$1
     else
         print_lunch_menu
-        echo -n "Which would you like? [generic-eng] "
+        echo -n "Which would you like?"
         read answer
     fi
 
